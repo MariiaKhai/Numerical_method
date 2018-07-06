@@ -24,4 +24,4 @@ Equations"*  [:ru:]() [:uk:](http://nbviewer.jupyter.org/github/MariiaKhai/Numer
  <br>*"Method of Least Squares"*   [:ru:]() [:uk:](http://nbviewer.jupyter.org/github/MariiaKhai/Numerical_method/blob/master/Lagrang_book_lab_6.ipynb) 
  <br><br> **Laboratory work №7** 
  <br>*"Numerical Integration. Methods of Rectangles and Trapezoids, Simpson
-Rules"*  [:ru:]() [:uk:]() 
+Rules"*  [:ru:]() [:uk:](http://nbviewer.jupyter.org/github/MariiaKhai/Numerical_method/blob/master/Newton_book_lab_7.ipynb) 
