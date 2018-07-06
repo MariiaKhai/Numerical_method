@@ -15,7 +15,7 @@
 Solve Algebraic Equations"*   [:ru:]() [:uk:](https://nbviewer.jupyter.org/github/arinagerasimova/Informatics/blob/master/Programming%20and%20numerical%20methods/Laboratory%20work%20№2/Lab2_Theory.ipynb) 
   <br><br> **Laboratory work №3** 
   <br>*"Using Fixed-Point Iteration Method to Solve Algebraic and Transcendental
-Equations"*  [:ru:]() [:uk:]() 
+Equations"*  [:ru:]() [:uk:](http://nbviewer.jupyter.org/github/MariiaKhai/Numerical_method/blob/master/Lab3%20Complete1.ipynb) 
   <br><br> **Laboratory work №4** 
   <br>*"Iterative Methods for Linear System"*   [:ru:]() [:uk:]() 
   <br><br> **Laboratory work №5** 
